@@ -1,0 +1,45 @@
+.Freshfood {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 70vh;
+    background-image: url(https://images.wallpaperscraft.com/image/single/tomatoes_food_vegetables_102181_1920x1080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 2rem;
+   
+}
+
+.search {
+    width: 35rem;
+}
+
+.text {
+    font-size: 1.3rem;
+}
+
+.Vegetables {
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+}
+
+.Vegetables section{
+    width: 12%;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.images {
+    width: 2rem;
+}

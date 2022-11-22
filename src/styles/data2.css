@@ -1,0 +1,28 @@
+.Container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap:2rem;
+      
+}
+
+.img{
+
+    border: 1px solid red; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+}
+.Buttons{
+    display: flex;
+}
+
+.add{
+    width: 18rem;
+    border: none;
+    padding: 0.5rem;
+}
+.plus{
+    width: 10%; 
+    padding: 0.5rem;
+}

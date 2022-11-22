@@ -1,0 +1,13 @@
+.Footer{
+    margin-top: 5rem;
+    display: flex;
+    width: 100%;
+}
+
+.Footer section{
+    width: 20%;
+}
+
+.Footer section ul li{
+    line-height: 2rem;
+}
